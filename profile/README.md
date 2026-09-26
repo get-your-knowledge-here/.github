@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://get-your-knowledge-here.github.io/">Website</a> ·
   <a href="https://www.youtube.com/channel/UCX6GsXr6u-C2mzoAvTm_Vog">YouTube</a> ·
-  <a href="https://www.minifyn.com/?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=header">MiniFyn</a>
+  <a href="https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=header">MiniFyn</a>
 </p>
 
 ## Open source
@@ -30,15 +30,15 @@ npm install @gykh/caesar-cipher
 
 ## Free tools from MiniFyn
 
-Built by the same author, [MiniFyn](https://www.minifyn.com/?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=intro) makes privacy-first web and mobile utilities that keep your data on your device wherever possible.
+Built by the same author, [MiniFyn](https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=intro) makes privacy-first web and mobile utilities that keep your data on your device wherever possible.
 
 | Tool | What it does | Get it |
 | --- | --- | --- |
-| 🔗 **MiniFyn** | URL shortener with QR codes, bio-links and click analytics | [Web](https://www.minifyn.com/?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Chrome](https://chromewebstore.google.com/detail/minifyn-url-shortener/lppblpgaeklhkcjlonkmldjfocagjifc) · [API](https://www.minifyn.com/docs/api?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=table) |
-| 🧰 **Developer tools** | Code minifier, JSON formatter, JWT debugger and link expander, in your browser | [Web](https://www.minifyn.com/tools?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=table) |
-| 🛡️ **ScamGuard** | Check suspicious links, QR codes and redirect chains before opening them | [Web](https://www.minifyn.com/scamguard?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Chrome](https://chromewebstore.google.com/detail/scamguard-link-checker/cendbppkhplamddjfnbhgbejnpmfmlbi) · [Android](https://play.google.com/store/apps/details?id=com.minifyn.linkguard) |
-| 🔒 **CensorFyn** | Redact faces, IDs, card numbers and QR codes in photos and videos, 100% offline | [Web](https://www.minifyn.com/censorfyn?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Android](https://play.google.com/store/apps/details?id=com.minifyn.censorfyn) |
-| ⚡ **ClipFyn** | Prepare crisp 1080p 9:16 videos on-device so uploads stay sharp | [Web](https://www.minifyn.com/clipfyn?utm_source=github-gykh&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Android](https://play.google.com/store/apps/details?id=com.minifyn.clipfyn) |
+| 🔗 **MiniFyn** | URL shortener with QR codes, bio-links and click analytics | [Web](https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Chrome](https://chromewebstore.google.com/detail/minifyn-url-shortener/lppblpgaeklhkcjlonkmldjfocagjifc) · [API](https://www.minifyn.com/docs/api?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=table) |
+| 🧰 **Developer tools** | Code minifier, JSON formatter, JWT debugger and link expander, in your browser | [Web](https://www.minifyn.com/tools?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=table) |
+| 🛡️ **ScamGuard** | Check suspicious links, QR codes and redirect chains before opening them | [Web](https://www.minifyn.com/scamguard?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Chrome](https://chromewebstore.google.com/detail/scamguard-link-checker/cendbppkhplamddjfnbhgbejnpmfmlbi) · [Android](https://play.google.com/store/apps/details?id=com.minifyn.linkguard) |
+| 🔒 **CensorFyn** | Redact faces, IDs, card numbers and QR codes in photos and videos, 100% offline | [Web](https://www.minifyn.com/censorfyn?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Android](https://play.google.com/store/apps/details?id=com.minifyn.censorfyn) |
+| ⚡ **ClipFyn** | Prepare crisp 1080p 9:16 videos on-device so uploads stay sharp | [Web](https://www.minifyn.com/clipfyn?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=table) · [Android](https://play.google.com/store/apps/details?id=com.minifyn.clipfyn) |
 
 More on the [MiniFyn GitHub](https://github.com/Minifyn) and [blog](https://blog.minifyn.com).
 
