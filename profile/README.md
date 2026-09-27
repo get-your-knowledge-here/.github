@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://get-your-knowledge-here.github.io/">Website</a> ·
-  <a href="https://www.youtube.com/channel/UCX6GsXr6u-C2mzoAvTm_Vog">YouTube</a> ·
+  <a href="https://www.youtube.com/@qckx">YouTube</a> ·
   <a href="https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=header">MiniFyn</a>
 </p>
 
@@ -22,7 +22,7 @@
 - Strings, Buffers and Streams, CJS + ESM, TypeScript types
 - Browser playground with shareable cipher challenges
 
-[Live tool](https://get-your-knowledge-here.github.io/caesar-cipher/) · [npm](https://www.npmjs.com/package/@gykh/caesar-cipher) · [GitHub](https://github.com/get-your-knowledge-here/caesar-cipher)
+[Live tool](https://get-your-knowledge-here.github.io/caesar-cipher/) · [npm](https://www.npmjs.com/package/@gykh/caesar-cipher) · [GitHub](https://github.com/get-your-knowledge-here/caesar-cipher) · [Video](https://youtube.com/shorts/o2WY9Hrx7wk)
 
 ```bash
 npm install @gykh/caesar-cipher
