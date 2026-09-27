@@ -51,7 +51,7 @@ npm install @gykh/vigenere-cipher
 - 108 curated facts bundled: no API, no network, no rate limits
 - CLI (`npx @gykh/cat-facts`), CJS + ESM, TypeScript types
 
-[Live tool](https://get-your-knowledge-here.github.io/cat-facts/) · [npm](https://www.npmjs.com/package/@gykh/cat-facts) · [GitHub](https://github.com/get-your-knowledge-here/cat-facts)
+[Live tool](https://get-your-knowledge-here.github.io/cat-facts/) · [npm](https://www.npmjs.com/package/@gykh/cat-facts) · [GitHub](https://github.com/get-your-knowledge-here/cat-facts) · [Video](https://youtube.com/shorts/Eu_HYvdBSn4)
 
 ```bash
 npx @gykh/cat-facts
