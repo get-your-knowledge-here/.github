@@ -43,6 +43,20 @@ npm install @gykh/caesar-cipher
 npm install @gykh/vigenere-cipher
 ```
 
+### 🐱 [Cat Facts](https://github.com/get-your-knowledge-here/cat-facts)
+
+**Zero-dependency, offline cat facts for Node.js, plus a fact-of-the-day page.**
+
+- Random facts, unique batches, fact of the day and search
+- 108 curated facts bundled: no API, no network, no rate limits
+- CLI (`npx @gykh/cat-facts`), CJS + ESM, TypeScript types
+
+[Live tool](https://get-your-knowledge-here.github.io/cat-facts/) · [npm](https://www.npmjs.com/package/@gykh/cat-facts) · [GitHub](https://github.com/get-your-knowledge-here/cat-facts)
+
+```bash
+npx @gykh/cat-facts
+```
+
 ## Free tools from MiniFyn
 
 Built by the same author, [MiniFyn](https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=intro) makes privacy-first web and mobile utilities that keep your data on your device wherever possible.
