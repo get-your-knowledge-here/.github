@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://get-your-knowledge-here.github.io/">Website</a> ·
   <a href="https://www.youtube.com/@qckx">YouTube</a> ·
+  <a href="https://www.npmjs.com/org/gykh">npm</a> ·
   <a href="https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=header">MiniFyn</a>
 </p>
 
