@@ -28,6 +28,21 @@
 npm install @gykh/caesar-cipher
 ```
 
+### 🔑 [Vigenère Cipher](https://github.com/get-your-knowledge-here/vigenere-cipher)
+
+**Fast, zero-dependency Vigenère cipher for Node.js that cracks unknown keys.**
+
+- Encrypt and decrypt with a keyword, preserving case and punctuation
+- Recover an unknown key with index of coincidence and frequency analysis
+- Strings, Buffers and chunk-safe Streams, CJS + ESM, TypeScript types
+- Browser playground that cracks the key live
+
+[Live tool](https://get-your-knowledge-here.github.io/vigenere-cipher/) · [npm](https://www.npmjs.com/package/@gykh/vigenere-cipher) · [GitHub](https://github.com/get-your-knowledge-here/vigenere-cipher) · [Video](https://youtube.com/shorts/rZkRROJNB_s)
+
+```bash
+npm install @gykh/vigenere-cipher
+```
+
 ## Free tools from MiniFyn
 
 Built by the same author, [MiniFyn](https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=intro) makes privacy-first web and mobile utilities that keep your data on your device wherever possible.
