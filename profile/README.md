@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://gykh.sylvesterdas.com/">Website</a> ·
-  <a href="https://www.youtube.com/@qckx">YouTube</a> ·
+  <a href="https://www.youtube.com/@gykhdev">YouTube</a> ·
   <a href="https://www.npmjs.com/org/gykh">npm</a> ·
   <a href="https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=header">MiniFyn</a>
 </p>
