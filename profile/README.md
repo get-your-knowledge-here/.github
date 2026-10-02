@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://get-your-knowledge-here.github.io/"><img src="https://avatars.githubusercontent.com/u/93731976?s=160&v=4" width="96" height="96" alt="Get Your Knowledge Here" /></a>
+  <a href="https://gykh.sylvesterdas.com/"><img src="https://avatars.githubusercontent.com/u/93731976?s=160&v=4" width="96" height="96" alt="Get Your Knowledge Here" /></a>
 </p>
 
 <h1 align="center">Get Your Knowledge Here</h1>
@@ -7,7 +7,7 @@
 <p align="center">Free developer tools, open source and coding tips.</p>
 
 <p align="center">
-  <a href="https://get-your-knowledge-here.github.io/">Website</a> ·
+  <a href="https://gykh.sylvesterdas.com/">Website</a> ·
   <a href="https://www.youtube.com/@qckx">YouTube</a> ·
   <a href="https://www.npmjs.com/org/gykh">npm</a> ·
   <a href="https://www.minifyn.com/?utm_source=gykh-github&utm_medium=referral&utm_campaign=org-readme&utm_content=header">MiniFyn</a>
@@ -23,7 +23,7 @@
 - Strings, Buffers and Streams, CJS + ESM, TypeScript types
 - Browser playground with shareable cipher challenges
 
-[Live tool](https://get-your-knowledge-here.github.io/caesar-cipher/) · [npm](https://www.npmjs.com/package/@gykh/caesar-cipher) · [GitHub](https://github.com/get-your-knowledge-here/caesar-cipher) · [Video](https://youtube.com/shorts/o2WY9Hrx7wk)
+[Live tool](https://gykh.sylvesterdas.com/caesar-cipher/) · [npm](https://www.npmjs.com/package/@gykh/caesar-cipher) · [GitHub](https://github.com/get-your-knowledge-here/caesar-cipher) · [Video](https://youtube.com/shorts/o2WY9Hrx7wk)
 
 ```bash
 npm install @gykh/caesar-cipher
@@ -38,7 +38,7 @@ npm install @gykh/caesar-cipher
 - Strings, Buffers and chunk-safe Streams, CJS + ESM, TypeScript types
 - Browser playground that cracks the key live
 
-[Live tool](https://get-your-knowledge-here.github.io/vigenere-cipher/) · [npm](https://www.npmjs.com/package/@gykh/vigenere-cipher) · [GitHub](https://github.com/get-your-knowledge-here/vigenere-cipher) · [Video](https://youtube.com/shorts/rZkRROJNB_s)
+[Live tool](https://gykh.sylvesterdas.com/vigenere-cipher/) · [npm](https://www.npmjs.com/package/@gykh/vigenere-cipher) · [GitHub](https://github.com/get-your-knowledge-here/vigenere-cipher) · [Video](https://youtube.com/shorts/rZkRROJNB_s)
 
 ```bash
 npm install @gykh/vigenere-cipher
@@ -52,7 +52,7 @@ npm install @gykh/vigenere-cipher
 - 108 curated facts bundled: no API, no network, no rate limits
 - CLI (`npx @gykh/cat-facts`), CJS + ESM, TypeScript types
 
-[Live tool](https://get-your-knowledge-here.github.io/cat-facts/) · [npm](https://www.npmjs.com/package/@gykh/cat-facts) · [GitHub](https://github.com/get-your-knowledge-here/cat-facts) · [Video](https://youtube.com/shorts/Eu_HYvdBSn4)
+[Live tool](https://gykh.sylvesterdas.com/cat-facts/) · [npm](https://www.npmjs.com/package/@gykh/cat-facts) · [GitHub](https://github.com/get-your-knowledge-here/cat-facts) · [Video](https://youtube.com/shorts/Eu_HYvdBSn4)
 
 ```bash
 npx @gykh/cat-facts
