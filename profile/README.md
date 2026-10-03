@@ -103,3 +103,7 @@ More on the [MiniFyn GitHub](https://github.com/Minifyn) and [blog](https://blog
 ## Contributing
 
 Issues and pull requests are welcome on each repository. Created by [Sylvester Das](https://github.com/sylvesterdas).
+
+## Support
+
+If these packages help you, you can support the work on [GitHub Sponsors](https://github.com/sponsors/sylvesterdas) or [Buy Me a Coffee](https://www.buymeacoffee.com/sylvester.das).
