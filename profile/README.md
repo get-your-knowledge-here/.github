@@ -44,6 +44,34 @@ npm install @gykh/caesar-cipher
 npm install @gykh/vigenere-cipher
 ```
 
+### ⚙️ [Enigma](https://github.com/get-your-knowledge-here/enigma)
+
+**Zero-dependency WWII Enigma machine for Node.js, plus a browser simulator.**
+
+- Real rotor wirings I–VIII, reflectors A/B/C, ring settings and plugboard
+- Middle-rotor double step, tested against a genuine 1941 German Army message
+- Strings, Buffers and Streams, CJS + ESM, TypeScript types
+
+[Live tool](https://gykh.sylvesterdas.com/enigma/) · [npm](https://www.npmjs.com/package/@gykh/enigma) · [GitHub](https://github.com/get-your-knowledge-here/enigma) · [Video](https://youtube.com/shorts/nCx9p6K3hJw)
+
+```bash
+npm install @gykh/enigma
+```
+
+### 📡 [Morse](https://github.com/get-your-knowledge-here/morse)
+
+**Zero-dependency Morse code encoder and decoder for Node.js, with sound, light and vibration.**
+
+- Full ITU set, prosigns, accented letters and custom symbols
+- WAV audio, PARIS and Farnsworth timings, `navigator.vibrate()` patterns
+- CLI (`npx @gykh/morse "SOS" --play`), Strings, Buffers and Streams, TypeScript types
+
+[Live tool](https://gykh.sylvesterdas.com/morse/) · [npm](https://www.npmjs.com/package/@gykh/morse) · [GitHub](https://github.com/get-your-knowledge-here/morse)
+
+```bash
+npm install @gykh/morse
+```
+
 ### 🐱 [Cat Facts](https://github.com/get-your-knowledge-here/cat-facts)
 
 **Zero-dependency, offline cat facts for Node.js, plus a fact-of-the-day page.**
