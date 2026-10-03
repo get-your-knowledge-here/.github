@@ -66,7 +66,7 @@ npm install @gykh/enigma
 - WAV audio, PARIS and Farnsworth timings, `navigator.vibrate()` patterns
 - CLI (`npx @gykh/morse "SOS" --play`), Strings, Buffers and Streams, TypeScript types
 
-[Live tool](https://gykh.sylvesterdas.com/morse/) · [npm](https://www.npmjs.com/package/@gykh/morse) · [GitHub](https://github.com/get-your-knowledge-here/morse)
+[Live tool](https://gykh.sylvesterdas.com/morse/) · [npm](https://www.npmjs.com/package/@gykh/morse) · [GitHub](https://github.com/get-your-knowledge-here/morse) · [Video](https://youtube.com/shorts/RxmkTaZbMNE)
 
 ```bash
 npm install @gykh/morse
